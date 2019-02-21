@@ -1,0 +1,12 @@
+1. open git bash
+
+#to change dir to your repo
+cd C:/ilovemdm
+
+#those commands will be done on local repo
+git add -A
+git commit -m 'MDM also loves me back'
+
+#this will require connecting to github
+git status
+git push
